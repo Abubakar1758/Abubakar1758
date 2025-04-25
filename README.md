@@ -2,15 +2,15 @@
 <h3 align="center">Full Stack Developer</h3>
 
 ---
-
-🌱 I’m currently exploring **React Native** and **Expo**  
-💬 Ask me about **React.js, Next.js, Node.js, NestJS, and PostgreSQL**  
+  
+💬 Ask me about **React.js, Next.js, Node.js, NestJS, AWS Lambda and PostgreSQL**  
+🌱 Currently I'm exploring **React Native** and **Expo**   
 📫 Reach me at: **muhammadabubakar1758@gmail.com**  
 🌐 Visit my portfolio: [https://abubakarniazi.com](https://abubakarniazi.com)
 
 ---
 
-### 🛠️ Technologies & Tools
+<h3 align="center">🛠️ Technologies & Tools</h3>
 
 <p align="center">
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" alt="Next.js" /></a>
@@ -35,7 +35,7 @@
 
 ---
 
-### 📫 Connect with Me
+<h3 align="center">📫 Connect with Me</h3> 
 
 <p align="center">
   <a href="https://github.com/Abubakar1758"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
