@@ -2,11 +2,11 @@
 <h3 align="center">Full Stack Developer</h3>
 
 ---
-  
-💬 Ask me about **React.js, Next.js, Node.js, NestJS, AWS Lambda and PostgreSQL**  
-🌱 Currently I'm exploring **React Native** and **Expo**   
-📫 Reach me at: **muhammadabubakar1758@gmail.com**  
-🌐 Visit my portfolio: [https://abubakarniazi.com](https://abubakarniazi.com)
+
+<p align="center"><b>💬 Ask me about:</b> React.js, Next.js, Node.js, NestJS, AWS Lambda and PostgreSQL</p>
+<p align="center"><b>🌱 Currently exploring:</b> React Native and Expo</p>
+<p align="center"><b>📫 Reach me at:</b> <a href="mailto:muhammadabubakar1758@gmail.com">muhammadabubakar1758@gmail.com</a></p>
+<p align="center"><b>🌐 Visit my portfolio:</b> <a href="https://abubakarniazi.com" target="_blank">abubakarniazi.com</a></p>
 
 ---
 
